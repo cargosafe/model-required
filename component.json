@@ -1,0 +1,14 @@
+{
+  "name": "model-required",
+  "repo": "cargosafe/model-required",
+  "description": "Validate required attributes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
